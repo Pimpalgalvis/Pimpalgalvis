@@ -5,6 +5,8 @@ PLEASE SUPPORT MY PROJECT BY STAR'ING IT AND SHARING WITH YOUR FRIENDS!
 
 I WORKED REALLY HARD ON THIS, THANKS!
 
+I WILL RELEASE THE SOURCE CODE IF IT GETS A LOT OF ATTENTION
+
 
 <!---
 Pimpalgalvis/Pimpalgalvis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
